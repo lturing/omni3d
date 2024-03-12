@@ -1,0 +1,20 @@
+# folders or files
+datasets/*
+.vscode/
+.ipynb_checkpoints/
+.idea/
+output/
+output*
+cubercnn/external/
+output*.mp4
+
+# filetypes
+*.pyc
+*.mexa64
+*/output/*
+*/output*/*
+*~
+*.so
+*.ipynb
+cubercnn_DLA34_FPN_indoor_outdoor.pth
+cubercnn_DLA34_FPN_outdoor.pth
