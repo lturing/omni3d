@@ -24,7 +24,7 @@ python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wh
 conda install -c conda-forge scipy seaborn
 ```
 
-## Run our data
+## Run
 ```
 ## for outdoor 
 python demo/demo.py \
