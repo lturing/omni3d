@@ -10,7 +10,7 @@ Omni3D是通用的3d目标检测模型，根据场景分为室内、室外、室
 - [Detectron2][d2]
 - [PyTorch][pyt]
 - [PyTorch3D][py3d]
-- [COCO][coco]
+- [COCO][coco] (optional)
 
 ``` bash
 # setup new evironment
