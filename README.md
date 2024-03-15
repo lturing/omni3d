@@ -1,5 +1,10 @@
 Omni3D是通用的3d目标检测模型，根据场景分为室内、室外、室内和室外统一模型，根据需要从[官方](https://github.com/facebookresearch/omni3d/blob/main/MODEL_ZOO.md)下载对应的预训练模型
 
+## b站视频demo
+- [omni3d(通用3d目标检测)](https://www.bilibili.com/video/BV1BJ4m1h7Rw)
+- [omni3d(通用3d目标检测)_2](https://www.bilibili.com/video/BV1Ku4m1g7hz)
+
+  
 ## Installation <a name="installation"></a>
 
 - [Detectron2][d2]
